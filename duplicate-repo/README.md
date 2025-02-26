@@ -42,8 +42,8 @@ To allow the script to create issues, labels, and milestones, you need to genera
 ### **3️⃣ Clone This Repository**
 Download the source repository to your local machine:
 ```sh
- git clone https://github.com/Focus-Bear/onboarding-frontend-react.git
- cd onboarding-frontend-react
+ git clone https://github.com/Focus-Bear/onboarding-windows-app.git
+ cd onboarding-windows-app
 ```
 
 ### **4️⃣ Run the Script to Duplicate Issues, Labels, and Milestones**
